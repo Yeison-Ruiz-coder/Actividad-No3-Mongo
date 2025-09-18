@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "68cc8314117e0a24324ba291"
+  },
+  "id": 1,
+  "nombre": "Laptop",
+  "precio": 1200.5,
+  "categoria": "Electrónica",
+  "stock": 15
+},
+{
+  "_id": {
+    "$oid": "68cc8314117e0a24324ba292"
+  },
+  "id": 2,
+  "nombre": "Smartphone",
+  "precio": 800,
+  "categoria": "Electrónica",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "68cc8314117e0a24324ba293"
+  },
+  "id": 3,
+  "nombre": "Camiseta",
+  "precio": 25.99,
+  "categoria": "Ropa",
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "68cc8314117e0a24324ba294"
+  },
+  "id": 4,
+  "nombre": "Libro de Cocina",
+  "precio": 15.75,
+  "categoria": "Libros",
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "68cc8314117e0a24324ba295"
+  },
+  "id": 5,
+  "nombre": "Auriculares",
+  "precio": 60,
+  "categoria": "Electrónica",
+  "stock": 40
+}]

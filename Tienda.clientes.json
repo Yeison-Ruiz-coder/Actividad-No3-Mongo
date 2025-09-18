@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "68cc82ba117e0a24324ba28b"
+  },
+  "id": "1",
+  "name": "Juan",
+  "lastname": "Perez",
+  "age": 30,
+  "email": "juanperez@gmail.com",
+  "phone": 1234567890
+},
+{
+  "_id": {
+    "$oid": "68cc82ba117e0a24324ba28c"
+  },
+  "id": "2",
+  "name": "Maria",
+  "lastname": "Gomez",
+  "age": 25,
+  "email": "mariag@gmail.com",
+  "phone": {
+    "$numberLong": "9876543210"
+  }
+},
+{
+  "_id": {
+    "$oid": "68cc82ba117e0a24324ba28d"
+  },
+  "id": "3",
+  "name": "Maro",
+  "lastname": "Gonzales",
+  "age": 20,
+  "email": "mariogonza@gmail.com",
+  "phone": {
+    "$numberLong": "4567891230"
+  }
+},
+{
+  "_id": {
+    "$oid": "68cc82ba117e0a24324ba28e"
+  },
+  "id": "4",
+  "name": "Pedro",
+  "lastname": "Suarez",
+  "age": 40,
+  "email": "Pedros2@gmail.com",
+  "phone": {
+    "$numberLong": "3216549870"
+  }
+},
+{
+  "_id": {
+    "$oid": "68cc82ba117e0a24324ba28f"
+  },
+  "id": "5",
+  "name": "Tomas",
+  "lastname": "Valdez",
+  "age": 33,
+  "email": "Tvadez@gmail.com",
+  "phone": 1597534862
+}]
